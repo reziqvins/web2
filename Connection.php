@@ -1,6 +1,6 @@
 <?php
 
-$hostDB = 'ruby.db.elephantsql.com (ruby-01)';
+$hostDB = 'ruby.db.elephantsql.com';
 $portDB = '5432';
 $nameDB = 'lcxjhpwa';
 $userDB = 'lcxjhpwa';
