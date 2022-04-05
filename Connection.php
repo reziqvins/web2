@@ -1,6 +1,6 @@
 <?php
 
-$hostDB = 'postgres://lcxjhpwa:fVm2bMX9J3SCkUIHP5XU-NW4wnMdwN3x@ruby.db.elephantsql.com/lcxjhpwa';
+$hostDB = 'ruby.db.elephantsql.com (ruby-01)';
 $portDB = '5432';
 $nameDB = 'lcxjhpwa';
 $userDB = 'lcxjhpwa';
