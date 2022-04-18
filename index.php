@@ -16,7 +16,7 @@
             <div class="card-body shadow" style="margin-auto;">
                 <a href="tambahdata.php" class="btn btn-primary" >Tambah</a>
                 <h3 class="text-center"><b>Daftar Data</b></h3>
-                <table class="table table-hover table-success">
+                <table class="table table-success table-striped">
                     <thead>
                         <tr>
                             <td>No</td>
